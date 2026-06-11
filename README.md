@@ -1,4 +1,3 @@
 # QR_Generator
 
-
-### Fazer interface gráfica para mobile e pc
+Uso da lib qrcode para gerar um qrcode válido apartir de uma url válida.
